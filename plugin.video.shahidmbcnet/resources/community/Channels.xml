@@ -1659,30 +1659,9 @@
 			<category>magreb</category>
 		</assignedcategory>
 	</channel>
-	<channel>
-		<cname>TVP 1 HD</cname>
-		<imageurl>http://www.teledunet.com/player/icones/tvp_1_hd.jpg</imageurl>
-		<enabled>True</enabled>
-		<assignedcategory>
-			<category>oth</category>
-		</assignedcategory>
+	
 	</channel>
-	<channel>
-		<cname>TVP 2 HD</cname>
-		<imageurl>http://www.teledunet.com/player/icones/tvp_2_hd.jpg</imageurl>
-		<enabled>True</enabled>
-		<assignedcategory>
-			<category>oth</category>
-		</assignedcategory>
-	</channel>
-	<channel>
-		<cname>TVS</cname>
-		<imageurl>http://www.teledunet.com/player/icones/tvs.jpg</imageurl>
-		<enabled>True</enabled>
-		<assignedcategory>
-			<category>oth</category>
-		</assignedcategory>
-	</channel>
+	
 	<channel>
 		<cname>Tamazigh Algeria</cname>
 		<imageurl>http://www.teledunet.com/player/icones/tamazigh_algeria.jpg</imageurl>
@@ -1771,14 +1750,7 @@
 			<category>magreb</category>
 		</assignedcategory>
 	</channel>
-	<channel>
-		<cname>Tv Polonia</cname>
-		<imageurl>http://www.teledunet.com/player/icones/tv_polonia.jpg</imageurl>
-		<enabled>True</enabled>
-		<assignedcategory>
-			<category>oth</category>
-		</assignedcategory>
-	</channel>
+	
 	<channel>
 		<cname>nbn lebanon</cname>
 		<imageurl>http://www.teledunet.com/player/icones/tunisia_national_1.jpg</imageurl>
